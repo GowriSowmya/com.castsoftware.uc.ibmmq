@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<metaModel file_level="prepackaged" file_no="448">
+	
+	<type name="MOM_Producer" rid="6">
+        <description>MOM Producer</description>
+       <inheritedCategory name="CAST_PluginObject" />
+    </type>
+	
+	<type name="MOM_Queue" rid="7">
+        <description>MOM Queue</description>
+   <inheritedCategory name="CAST_PluginObject" />
+    </type>
+	
+	<type name="MOM_Consumer" rid="8">
+        <description>MOM Consumer</description>
+		   <inheritedCategory name="CAST_PluginObject" />
+    </type>
+    
+</metaModel>
